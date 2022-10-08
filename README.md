@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Sepano ! 
+- 👨‍💻 I'm a Hobbist Game Devloper !
+- 💻 I use Java right now Alot ( Moved From Python but I still love python a bit 😅)
+- 😄 Pronouns: He/Him !
 
 <!--
 **Sepandi/Sepandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
