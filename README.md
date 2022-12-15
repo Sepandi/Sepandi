@@ -1,5 +1,5 @@
 ### Hello There 👋 I'm Sepano ! 
-- 👨‍💻 I'm a Hobbist Game Devloper !
+- 👨‍💻 I'm a Hobbist Game Developer !
 - 💻 I used Java alot lately but I have a very good experiance with Python and C# 😃
 - 😄 Pronouns: He/Him !
 
